@@ -1,0 +1,6 @@
+/img public/img/Evangelion-Volume1_COLORGALLERY_.jpg
+/img public/img/Evangelion-Volume1_COLORGALLERY_2-3_spread.jpg
+/img public/img/Evangelion-Volume1_COLORGALLERY_4-5_spread.jpg
+/img public/img/Evangelion-Volume1_COLORGALLERY_6.jpg
+/img public/img/Evangelion-Volume1_COLORGALLERY_7.jpg
+/img public/img/Evangelion-Volume1_COLORGALLERY_8.jpg

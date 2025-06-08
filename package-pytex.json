@@ -1,0 +1,23 @@
+{
+	"version": "1.0.0",
+	"pakcage": [
+		{
+			"name": "paragraph",
+			"description": "A package for handling paragraph formatting in LaTeX documents.",
+			"command": "",
+			"function": "blank"
+		},
+		{
+			"name": "title-h1",
+			"description": "A package for handling paragraph formatting in LaTeX documents.",
+			"command": "/h1",
+			"function": "blank"
+		},
+		{
+			"name": "image",
+			"description": "A package for handling paragraph formatting in LaTeX documents.",
+			"command": "/img",
+			"function": "blank"
+		}
+	]
+}

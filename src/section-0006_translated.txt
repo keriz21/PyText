@@ -1,0 +1,2 @@
+/img public/img/Evangelion-Volume1_INTERIORIMAGES_.jpg
+/img public/img/Evangelion-Volume1_INTERIORIMAGES_2.jpg

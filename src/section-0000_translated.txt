@@ -1,0 +1,1 @@
+/img public/img/CoverDesign.jpg

@@ -1,0 +1,261 @@
+/h1 Chapter 3
+/h1 The Fallen
+
+KESEPIAN di atas langit pecah tanpa peringatan.
+Kelopak mata Rei Quatre bergetar terbuka, menarik kembali bulu mata panjang yang telah menutupi pandangannya. Di permukaan di bawah, Rei Trois melihat planet biru yang luas melalui mata Quatre.
+Dengan lembut, Trois berkata, “Apa?”
+Sensor visual Eva-0.0 dapat menyelesaikan detail pada resolusi kurang dari sepuluh sentimeter dan dapat melakukan penyaringan waktu nyata terhadap objek bergerak yang lebih besar dari lima meter. Eva Quatre fokus pada sebuah pelabuhan, kemudian menyaring gerakan struktur dan peralatannya serta mamalia laut besar di perairannya. Sebuah objek yang tidak dapat diidentifikasi tetap ada. Objek itu tidak tampak sebagai ancaman, tetapi Quatre merasa—meskipun hanya samar—gelisah.
+
+Rei utama mengirimkan pikirannya kepada klon-klonnya.
+“Kita tidak memiliki data fisik. Haruskah kita menyimpulkan bahwa ini adalah kesalahan?”
+<<Cinq menahan penilaian.>>
+<<Six mengakui kesalahan.>>
+<<Trois menahan penilaian.>>
+
+<<Quatre akan melakukan pemeriksaan yang lebih mendetail, termasuk data lingkungan.>>
+
+Rei Trois sedang berjalan pulang dari sekolah. Dia mengenakan seragam musim panas putih dari sekolah menengah swasta Tokyo-3. Kakinya, di ujung kakinya yang panjang dan berkulit terang, mengetuk ritme pelan dan stabil di trotoar… sampai tidak lagi. Gadis peri pucat itu tiba-tiba berdiri diam, dan tasnya terjatuh ke tanah.
+
+Matahari telah terbenam di atas stasiun kereta ringan, tetapi panasnya masih terasa. Rei Trois menggenggam bahunya dan melihat saat pintu kereta yang menuju Nerv HQ menutup di depannya. Kereta itu meluncur pergi, meninggalkannya di belakang.
+Dia memiliki kecenderungan untuk menjaga matanya setengah tertutup, tetapi sekarang matanya terbuka lebar.
+“Apa…?”
+Dia merasakan butiran keringat mengalir di kulitnya.
+Pernapasannya menjadi terengah-engah—tidak biasa baginya—dan dadanya naik turun dengan berat. Ketika dia berbicara, suaranya keluar sebagai teriakan yang tidak biasa.
+“Bantu!”
+Sesuatu yang hitam legam mengalir ke dalam dirinya.
+Dia merasakan kekuatan aneh menarik anggota tubuhnya, dan kemudian itu hilang, meninggalkannya dengan kejutan akan ketidakhadirannya.
+“Saya tidak bisa mendengar diri saya yang lain.”
+
+Tiba-tiba, dia sendirian.
+Dia mendapati dirinya berjongkok di platform kereta saat siswa-siswa yang mengenakan seragam yang sama berlari, dipanggil oleh teriakannya.
+
+Sebuah alarm berbunyi di seluruh pusat komando.
+Nerv Japan HQ berada dalam kekacauan. Tiga Eva Series-0.0 telah mengorbit bumi selama dua tahun tanpa insiden, tetapi sekarang satu—yang dikemudikan oleh Rei Quatre—telah menyimpang dari orbit yang ditentukan dan mulai kehilangan ketinggian.
+Beberapa petugas berteriak melaporkan sementara yang lain mengalir masuk dari kafetaria. “Kami tidak lagi menerima telemetri! Status Quatre tidak diketahui!”
+“Komandan di dek!”
+Kepala-kepala berbalik saat Katsuragi Misato menggeram, “Hentikan pekerjaanmu!”
+Saat ketertiban kembali ke ruangan, komandan melangkah melintasi dek atas dan memanggil cukup keras agar Hyuga Makoto di dek tengah bisa mendengar. “Apa status Rei Quatre?”
+Hyuga adalah seorang teknisi yang cerdas tetapi sangat mampu yang telah menjadi bagian tetap di pusat komando saat Nerv Japan masih menjadi Nerv. “Dia tidak merespons komunikasi!” katanya. “Vital tidak diketahui.”
+“Apakah Rei Trois masih di sekolah?” tanya Misato. “Lihat apakah dia bisa menghubungi Quatre.”
+Dari dek tengah yang sama, Aoba Shigeru yang patuh namun jauh menjawab dengan informasi yang baru saja dia terima. “Divisi intelijen keamanan telah menemukan Rei Trois dalam perjalanan pulang dari sekolah. Mereka bilang dia tidak dalam keadaan pikiran yang benar.”
+“Apa?”
+Trois telah menjadi harapan terakhir mereka untuk mengetahui apa yang terjadi dengan Quatre.
+
+“Rei Cinq dan Rei Six berada dalam keadaan bingung,” kata Aoba. “Vital mereka tidak stabil. Saya sarankan kita memberikan sedasi.”
+“Lakukan,” kata Misato. “Apakah peralatan observasi mereka bisa mendapatkan visual pada Eva Quatre?”
+Eva Cinq dan Six seharusnya dapat melihat Quatre di batas atmosfer atas. Seorang teknisi menerapkan topeng digital untuk menggelapkan Bumi, dan cahaya samar yang berkilau menjadi terlihat di tepinya.
+“Itu terlihat seperti fragmen yang tersebar,” kata Aoba. “Analisis spektral AI mengonfirmasi bahwa itu milik Eva Quatre.”
+Suara Shinji terdengar di saluran komunikasi. <<Ini Shinji di dalam kandang. Saya mendengar bahwa salah satu Ayanami ditembak jatuh!>>
+Dari fragmen-fragmen itu, tampaknya memang demikian.
+“Masih terlalu awal untuk mengatakan,” jawab Misato. “Mungkin ada kecelakaan. Kita masih belum tahu.”
+
+“Apa dengan kamera atap?” tanya Misato. “Tampilkan kamera pengamatan langit seluruh menara, A1.”
+Seorang teknisi mengalihkan umpan masuk dari tim pengamatan ke layar utama.
+“Itu flare FSB Unit-0.0!” kata Misato.
+Flare berbentuk salib, ganas, terang, dan berdenyut, terlihat di senja. FSB—atau Field Stepping Booster—memanfaatkan A.T. Field untuk arah dan ledakan dari Reaktor N2 untuk daya—cukup untuk mengangkat Eva ke orbit.
+Apakah Quatre mencoba mempercepat kembali ke posisinya?
+“Tidak, sebaliknya!” Misato menyadari. “Eva sedang meluncur ke timur. Dia sedang memperlambat!”
+Unit Quatre sedang menembak ke arah yang berlawanan dengan orbitnya.
+Cahaya berbentuk salib itu melambat hingga berhenti di atas Hakone dan kemudian menghilang.
+“Unit-0.0 telah memutuskan FSB-nya!” kata Hyuga. “Eva telah kehilangan kecepatan orbitalnya dan sekarang berada tepat di atas kepala kita. Kecepatan relatif nol.”
+“Dan itu berarti…?”
+“Eva mengikuti trajektori menurun yang curam yang sesuai dengan rotasi Bumi. Dia jatuh tepat ke kepala kita!”
+
+“Apakah Eva bisa terbakar?” tanya Misato.
+Aoba menjawab, “Bahkan jika A.T. Field-nya tidak berfungsi—dan kita tidak tahu itu—Eva tidak akan terbakar di atmosfer atas. Selain itu, perlambatan orbitalnya sudah selesai. Namun, jika Unit-0.0 melanggar udara yang lebih padat di stratosfer, gelombang kejut yang dihasilkan bisa merusak area yang luas dan menembus jauh ke dalam tanah.”
+Apakah ini kerusakan, atau apakah Rei Quatre melakukan ini dengan sengaja? Bagaimanapun, saya perlu mengambil tindakan sekarang.
+Misato mencapai keputusan.
+“Saya menyatakan ini sebagai kehilangan orbit yang tidak disengaja. Keluarkan perintah darurat ke semua sektor Tokyo-3 dan daerah sekitarnya! Semua penduduk harus dievakuasi ke tempat perlindungan bawah tanah. Siapkan untuk dampak! Apakah ada tanggapan dari Rei Quatre?”
+“Kami masih mencoba menghubunginya,” kata salah satu teknisi lainnya, “tetapi tidak ada respons.”
+
+Jika Eva akan jatuh di sini, maka…
+“Shinji-kun, Asuka,” perintah Misato, “mulai urutan masukmu. Nyalakan Unit Nol dan Unit Dua!”
+Dukungan raksasa dilepaskan. Shinji dan Asuka telah menunggu perintah; mereka segera mempersiapkan Eva mereka.
+“Unit Satu,” lanjut Misato, “gunakan A.T. Field-mu untuk menyerap momentum Eva-0.0 di titik dampak yang diproyeksikan! Sama seperti yang kamu lakukan dengan Angel.”
+Dibandingkan dengan Angel Sahaquiel, yang berhasil ditangkap Shinji, Eva Series-0.0 memiliki massa yang lebih sedikit. Yang lebih penting, Eva-01 telah mendapatkan S² Engine sejak pertemuan itu dan sekarang dapat menghasilkan A.T. Field yang jauh lebih kuat. Selama tiga tahun terakhir, Shinji telah berlatih keras untuk belajar cara menggunakannya.
+Jadi mengapa dia merasa begitu tidak nyaman? Apakah karena sudah lama sejak dia merespons keadaan darurat?
+<<Ini Shinji di Unit Satu. Dimengerti!>>
+“Asuka, kita akan mengubah posisimu sedikit. Berangkat ke pos penembakan di Gunung Komagatake.”
+Gunung Komagatake adalah salah satu dari banyak puncak di dekat pusat kaldera Hakone. Dalam pertempuran sebelumnya, Gunung Kami, yang tertinggi dari puncak-puncak ini, telah dihancurkan. Sekarang Gunung Komagatake adalah yang tertinggi. Pos penembakan di sana menyediakan posisi anti-udara strategis, memberikan pandangan jelas di atas kaldera yang menjadi rumah Tokyo-3.
+Gunung itu terletak sekitar 4,5 kilometer dari Nerv HQ. Di antara keduanya, di sisi timur Danau Ashi, medan berbatu dan pegunungan menghalangi perjalanan di atas tanah, tetapi terowongan transportasi Eva berkecepatan tinggi di bawah tanah membuat perjalanan menjadi lurus. Bahkan Evangelion yang masih bergantung pada daya umbilical dapat dengan cepat dikerahkan ke pos penembakan.
+<<Ini Asuka di Unit Dua. Dimengerti!>>
+Alarm berbunyi di seluruh kota untuk pertama kalinya dalam tiga tahun. Di dalam pusat komando Nerv HQ, Aoba memegang saluran komunikasi eksternal di telinganya sambil melihat ke belakang.
+“SSDF dari Matsushiro menawarkan dukungan mereka. Mereka telah mengirim umpan langsung dari Unit Quatre dari lokasi pertahanan udara Tokachi.”
+“Apakah hanya saya,” kata Misato, “atau apakah mereka terdengar seperti mengatakan, ‘itu pantas untukmu’?”
+“Seandainya. Mereka mungkin berpikir kita sedang mengatur semuanya.”
+Misato bisa membayangkan tuduhan-tuduhan itu: setelah tiga tahun tanpa Angel atau Eva produksi massal, Nerv Japan telah mengatur insiden untuk membenarkan keberadaan mereka yang berkelanjutan.
+“Beri tahu petugas mereka bahwa mereka dipersilakan untuk datang mengamati, jika mereka memiliki keberanian untuk memasuki zona dampak. Dan peringatkan mereka bahwa pasukan mereka tidak boleh melintasi perbatasan ke dalam kaldera.”
+
+Ketika Eva Series-0.0 melintasi lapisan E ionosfer—ketinggian di mana bintang jatuh bersinar menyala—semburan asap putih menyelimuti raksasa itu. Apakah sebagian dari Eva telah menyerah pada hambatan udara dan tersebar seperti banyak kelopak bunga? Apakah itu titik keras dari senapan laser gamma, atau panel sensor visual dari payung, atau sesuatu yang lain?
+
+Bangunan-bangunan Tokyo-3 mulai tenggelam ke dalam tanah, untuk melindungi dari gelombang kejut dampak.
+Shinji berkata, “Jika kita bisa menangkap Eva yang jatuh, bangunan akan bertahan, tetapi jika kita gagal, kerusakannya bisa meluas ke bawah tanah.”
+<<Pusat komando ke Unit Satu: Harap diperhatikan, titik dampak yang diprediksi telah berpindah ke lokasi bekas Owakudani!>>
+“Unit Satu. Diterima!”
+Tanah bergetar saat Eva-01 berlari ke timur dari tempat ia muncul di dekat pusat Nerv HQ. Unit Type-F yang dilengkapi pelindung berat itu telah dipasangi jet lompatan di pelindung lututnya, yang digunakannya untuk melompat melewati banyak jalur kereta ringan di atas tanah kota.
+Fasilitas HQ saat ini menyerupai bola setengah terkubur, dengan rapi mengisi lubang yang telah dibombardir oleh Eva produksi massal di atap Geofront. Di tengahnya terdapat sebuah poros tinggi, meskipun bukaan itu tidak memberikan pandangan ke markas Nerv yang lama. Sebaliknya, itu menawarkan tiga ratus meter ruang kosong yang mengarah ke kubah putih raksasa—dijuluki “Sarkofagus”—yang menutupi dunia bawah tanah. Di bawah lapisan luar HTC kubah—Hard Tektite Concrete, beton yang sangat mengikat dan mirip kaca—terdapat beberapa lapisan pelat armor diikuti oleh lebih banyak HTC di bagian bawah. Semua lapisan ini bekerja sama untuk membentuk segel yang aman di atas bekas HQ Nerv.
+
+<<Pusat komando ke Unit Satu. Shinji-kun, apakah Eva-mu bisa mendapatkan visual pada Unit-0.0 yang jatuh?>>
+Eva-01 mengerem dan melihat ke atas. Sebuah noda kecil muncul tinggi di langit malam, sinar matahari yang memudar menerangi Eva Series-0.0 yang jatuh di satu sisi. Gambar yang ditransmisikan dari mata Eva-01 diperbesar dan goyang. Shinji memaksakan dirinya untuk tetap diam.
+“Nyaris! Saya akan mencoba berkonsentrasi.”
+A.T. Field adalah dinding yang mengelilingi setiap orang dan, sebagai demikian, umumnya hanya dapat dibangun di sekitar diri sendiri. Menghasilkan A.T. Field di lokasi yang jauh adalah mungkin, tetapi ada batasan—dan kesulitan meningkat seiring jarak.
+
+“Fokus A.T. Field.”
+Dengan konsentrasi yang hati-hati, karakteristik dinding diri memiliki fleksibilitas tertentu. Eva-01 mengangkat tangannya ke langit. Shinji biasanya menemukan kesuksesan paling besar dengan membayangkan dirinya di lokasi yang jauh, terutama jika ada objek yang dapat dia fokuskan. Dia akan merasa seolah-olah dia secara fisik ada di sana untuk menangkap Quatre.
+Meskipun Eva yang jatuh masih berada pada jarak yang cukup jauh, Shinji memiliki garis pandang langsung. Pikiran manusia sangat visual, dan bahkan satu dinding tipis antara dia dan Eva akan membuat konsentrasi jauh lebih sulit.
+“Fokus dalam tiga, dua, satu—tandai!”
+
+Layar utama pusat komando menunjukkan umpan langsung dari teleskop Nerv HQ, yang menangkap A.T. Field samar yang muncul di udara dan Eva-0.0 yang jatuh bertabrakan dengannya—dan dengan mudah menembusnya.
+“Unit Satu, A.T.F jarak jauh pertama dihasilkan,” lapor Hyuga.
+“Itu bahkan tidak menyerap dua persen dari kecepatan Eva,” kata Misato. “Kita masih jauh dari tujuan!”
+“Unit Quatre sedang memasuki lapisan D!”
+“Shinji,” kata Misato, “dengan kecepatan ini, kamu harus fokus setidaknya tiga kali lagi. Perlambat Eva itu sebanyak mungkin sebelum memasuki troposfer.”
+Dia tidak menambahkan, Jika tidak, gelombang kejut akan menyebabkan kehancuran yang luas.
+
+<<Ini Unit Dua. Saya telah tiba di pos penembakan Gunung Komagatake. Memulai pembuatan A.T. Field jarak jauh.>>
+“Kita akan melakukannya bersama,” jawab Shinji. “Saya akan bergerak sesuai sinyalmu.”
+<<Apa? Seolah-olah kamu cukup baik untuk menyamai waktuku! Tidak, kamu yang hitung mundur!>>
+Tidak seperti Eva-01, Eva-02 masih harus menyeret kabel umbilical. Daya, gerakan, dan waktu operasionalnya tidak bisa menyamai Eva dengan S² Engine di dalamnya. Tetapi unit Asuka unggul dalam tugas yang memerlukan presisi.
+Eva-02 telah kehilangan dua dari empat matanya akibat luka kepala dalam Pertempuran di Nerv HQ, dan raksasa itu sekarang mengenakan topeng bermata dua, seperti Eva-01. Tetapi kedua mata itu memperbesar Eva-0.0 yang jatuh dengan kejernihan sempurna.
+“Saya berharap saya masih memiliki empat mata,” kata Asuka.
+Eva-02 mengangkat tangannya ke langit.
+“Siap untuk mencoba lagi, Super Shinji?”
+<<Bisakah kamu tidak?>>
+Gelombang muncul di sekitar Eva Quatre.
+Ini tidak baik.
+Dari pusat komando, Hyuga melaporkan, <<Unit Quatre sedang memasuki stratosfer!>>
+
+Asap putih membubung dari Eva Series-0.0. Shinji mengeluarkan napas dalam-dalam dan mengunci mata Eva-01 pada targetnya.
+“Fokus,” dia berkata pada dirinya sendiri. “Fokus.”
+Sementara itu, Asuka berkonsentrasi pada titik yang sama di langit.
+“Saya tidak mengirimkan diri saya ke sana,” katanya pelan. “Saya ada di sana, berdiri di jalurnya!”
+Dia mengambil napas pelan dan stabil saat menunggu sinyal.
+
+“Tandai!”
+A.T. Field masih samar, tetapi sekarang perisai memiliki dua lapisan yang dihasilkan oleh dua Eva.
+Di layar utama pusat komando, Unit Quatre tiba-tiba tampak telah terkena kekuatan besar dan terlempar keluar jalur.
+Dengan kepuasan, Hyuga melaporkan, “Perintah kepada Unit Satu dan Dua. Kerja bagus. Kalian telah menyerap sejumlah besar energi kinetik Eva! Jika kalian bisa melakukan itu sekali lagi—”
+Dengan gerakan menyapu, Eva Series-0.0 mengubah orientasinya.
+“Apa-apaan?!” seru Hyuga.
+Mendengar teriakannya, Aoba, yang sedang mengoordinasikan evakuasi dan perlindungan kota, melihat ke layar utama dan berkata, “Eva tidak hanya jatuh bebas? Ini adalah penurunan yang terkontrol?!”
+“Trajektori Eva telah berubah!” teriak Hyuga, “Dampak yang diprediksi sekarang lima kilometer ke selatan—tengah Danau Ashi!”
+Tanpa kehilangan ritme, Misato berkata, “Asuka, kamu lebih dekat!”
+<<Serahkan padaku!>>
+“Unit Satu—mulai berlari!”
+
+Eva-01 Type-F berlari ke dalam hutan lebat di kaki Gunung Daigatake, yang berdiri di antara dirinya dan titik dampak yang diprediksi baru.
+A.T. Field memiliki keanehan lain: Tidak peduli seberapa lemah Eva atau pilotnya, ada satu tempat di mana mereka bisa menghasilkan field tanpa gagal—tanah di bawah kaki mereka. Jika tidak, raksasa setinggi seratus meter itu tidak akan bisa berjalan di atas tanah—tidak peduli seberapa baik dirancang atau diperkuat—tanpa tenggelam.
+Itu mungkin terdengar terlalu nyaman untuk dipercaya, tetapi mantan eksekutif Nerv sangat serius mengenai fenomena ini, dan mereka telah meninggalkan catatan mereka untuk staf saat ini.
+Batasan bentuk manusia—
+Manusia tidak dapat melarikan diri dari tanah. Kita ditakdirkan untuk merangkak di tanah selamanya—untuk mengotori diri kita dengan itu.
+Menurut mereka, keanehan A.T. Field ini adalah bukti nasib kita.
+Pada saat itu, Asuka berkata, “Duh, bukankah itu jelas?”
+Eva-01 memotong jalan melalui pepohonan dengan kecepatan penuh.
+
+Saya harus berhasil!
+Shinji mendekati tepi timur Danau Ashi. Gunung itu dulunya menurun ke dalam air di sini, tetapi setelah begitu banyak pertempuran dengan Angel, hutan itu telah terbakar habis, meninggalkan gunung telanjang, dan tanah telah runtuh dalam skala besar. Peningkatan dan penurunan yang kasar telah menjadi dangkal, dan beberapa pohon yang tersisa adalah hal-hal yang kerdil dan layu. Eva-01 melompati mereka dan mencapai tepi danau.
+Eva melakukan satu lompatan besar terakhir menuju dermaga terapung yang menjulur ke danau. Ujung tajam Type-F yang menyapu ke belakang menarik sedikit jejak awan bersamanya, menghasilkan suara rendah dan tinggi yang tidak harmonis saat Eva memotong udara.
+Menyerupai baju zirah yang bergerak, Type-F dirancang untuk menguji teknologi pembuatan A.T. Field. Nerv Japan berharap bahwa pembelokan A.T. Field secara buatan tidak hanya akan meningkatkan kemampuan defensif tetapi juga kemampuan untuk terbang. Pada akhirnya, penerbangan tidak mungkin, tetapi armor penahan berat Type-F lebih dari sekadar pelat yang ditingkatkan; itu memungkinkan lompatan unit yang dibantu field untuk mencakup jangkauan yang sangat besar. Menyaksikan Eva yang dilengkapi armor berat jauh melampaui kemampuan lompatan model yang lebih ringan dan ramping adalah pengalaman yang surreal.
+Dermaga terapung adalah serangkaian wafer dengan rongga di antara, dan ketika Eva-01 mendarat, itu menjadi drum besar yang bergema di seluruh pegunungan. Eva mengaktifkan remnya untuk menghentikan momentum, dan jeritan logam yang nyaring bergema di permukaan air. Kabel jangkar berat menahan dermaga di tempatnya, tetapi saat Eva mendarat, beberapa putus, mengangkat kolom besar air.
+
+Eva Quatre menghadap langit saat jatuh, raksasa itu memantulkan cahaya senja.
+<<Sekarang!>> Suara Asuka menggema melalui hydrospeaker, dan field baru yang dihasilkan oleh Eva-02 terbuka di langit tepat pada waktunya bagi Eva Series-0.0 untuk menerobosnya.
+“Saya akan menangkapmu, Ayanami!”
+
+Rei Quatre memecah kehenangannya dengan satu kalimat.
+<<Itu bohong.>>
+Sebelum Shinji bisa menghasilkan A.T. Field jarak jauh lainnya, Quatre menciptakan salah satu miliknya sendiri—kuat, seperti dinding.
+“Apa?” teriak Shinji.
+
+Suara Rei Quatre lemah dan serak, tetapi Shinji mendengarnya dengan jelas. Ketika dia berbicara, dia merasa seolah semua suara lain telah lenyap.
+
+Asuka merasakan sesuatu yang tidak menyenangkan akan terjadi.
+Eva-02 bereaksi segera, tanpa menunggu masukan Asuka, dan melompat mundur.
+Dalam sekejap berikutnya, Asuka merasakan rasa sakit yang menyengat di ujung hidungnya, dan tempat di mana Eva-nya berdiri menjadi sangat terang.
+“Eva-0.0 telah menembak!” teriak Asuka. Kemudian dia menambahkan dengan tuduhan, “Mengapa?!”
+
+Ada suara benturan yang sangat besar dan Asuka terlempar ke belakang.
+Pos penembakan di Gunung Komagatake telah dibangun untuk Eva-00 Type-F milik Rei Trois, yang telah dilengkapi dengan senapan artileri khusus, A.T. Field Piercer, dengan biaya lengan dan kaki secara harfiah. Dengan demikian, pos tersebut telah dibangun untuk menahan segala jenis ledakan serta serangan penetratif tinggi dari Angel.
+Sekarang lapisan armor-nya meleleh seperti mentega.
+Asuka berteriak.
+
+Sebuah sinar cahaya ungu jatuh di puncak gunung tertinggi di selatan Tokyo-3, diikuti oleh ledakan besar.
+Bangunan Nerv HQ yang menampung pusat komando dilindungi di bawah lapisan armor berat, dan struktur itu dirancang untuk menyerap gempa bumi dan guncangan lainnya, tetapi getaran masih datang dari bawah.
+“Pos penembakan sedang diserang!” deklarasi Hyuga.
+Ruangan itu meledak saat teknisi mulai berbicara satu sama lain.
+“Apakah itu senapan laser gamma Eva-0.0?”
+“Seberapa dalam ledakan itu pergi ke bawah tanah?”
+“Apa dengan Unit Dua?” tanya Misato. “Apa dengan Asuka? Apakah Eva-nya rusak?!”
+Komandan melihat layar utama, tetapi gambarnya telah menjadi kosong.
+“Ledakan menciptakan pulsa elektromagnetik,” kata Hyuga. “Semua sistem mati! Nyalakan kembali komunikasi eksternal, monitor…semuanya!”
+Pemutusan sementara dari dunia luar ini mungkin sama seperti tanpa akhir. Pertempuran seperti ini diukur dalam nanodetik; semuanya akan berakhir dalam setengah menit. Dan untuk sisa waktu itu, pusat komando akan terputus.
+
+Puncak gunung yang dihancurkan berdiri di timur Eva-01.
+“Quatre? Asuka?!” teriak Shinji.
+Beberapa jendela peringatan oranye muncul di tampilan plug untuk mengumumkan bahwa komunikasi pertempurannya, tautan data, dan beberapa sensor telah dimatikan sementara untuk mencegah kerusakan dari EMP.
+Dampak senapan laser gamma telah menciptakan awan plasma, menyebabkan gangguan elektromagnetik yang parah di seluruh area sekitarnya. Shinji telah kehilangan kontak dengan pusat komando, sistem telemetrinya, dan Eva-02. Bahkan sirkuit lasernya telah terputus, dan Shinji tidak bisa lagi melacak di mana Rei Quatre berada.
+Tetapi kemudian suaranya datang kepadanya dari suatu tempat di atas.
+<<Jangan berbicara baik padaku jika kamu tidak bermaksud demikian.>>
+Eva-nya berada tepat di atas dan mendekat dengan cepat. Raksasa itu telah terjun ke troposfer, udara di sekitarnya terdistorsi.
+
+“Apa…?” bisik Shinji.
+Apakah Ayanami melakukan itu? Apakah Quatre menyerang kita?!
+
+Gangguan listrik masuk ke LCL plug, dan Shinji meringis kesakitan. “Apa yang kamu lakukan?” Suaranya pecah.
+<<Kamu memilih dia dan merusak Proyek Instrumentalitas Manusia.>>
+
+Shinji bingung.
+Tetapi dia masih perlu menangkap Quatre.
+Itu bukan keputusan yang benar-benar sadar. Alih-alih melarikan diri, kebingungannya membawanya untuk melanjutkan tugas yang telah dia lakukan sebelum situasi berubah. Jika ada, Shinji menghindari membuat keputusan.
+“Kamu Ayanami, kan?”
+Sebelum senapan laser gamma-nya bisa mengisi ulang, Eva-01 menciptakan A.T. Field yang cerah dan jelas dan mendorongnya ke arah Eva-0.0 yang jatuh.
+“Itu bukan bohong! Saya akan menangkapmu, Ayanami!”
+
+Gelombang kejut menghantam Eva-01 dari atas. Shinji mengerang, dan dia serta Eva-nya terhuyung. Suara dampak itu terdengar hingga kilometer di segala arah.
+Tetapi itu hanya gelombang yang dihasilkan oleh penurunan awal Series-0.0. Ketika Shinji dan Asuka memperlambat Eva yang jatuh, gelombang kejut terus bergerak dengan kecepatan yang sama, menyebar dan melemah di atmosfer. Seperti guncangan awal gempa bumi, dampak ini hanya menandakan kedatangan bahaya yang sebenarnya.
+Entah bagaimana, Shinji berhasil menjaga kaki Eva-nya tetap di tanah.
+Kemudian dia mendengar suara Ayanami lagi.
+
+<<Seiring waktu berlalu, kamu merasa semakin terasing dariku, dan kamu semakin menjauh… Karena dengan setiap hari, aku menjadi lebih seperti ibumu.>>
+
+Kata-katanya memicu pemahaman dalam diri Shinji. Apakah itu sebabnya?
+
+Selama tiga tahun terakhir, Shinji telah mendapatkan kepercayaan Misato dan rekan-rekannya yang lain. Tanggung jawabnya telah meningkat, dan bersamanya datang rasa kepuasan. Dia dan Asuka bekerja dengan baik bersama, dan—mungkin, pikir Shinji—bergaul. Kehidupan sekolahnya hampir tidak wajar normal, dan dia bahkan bersenang-senang kadang-kadang ketika dia berusaha.
+Tetapi sesuatu masih mengganggunya, dan perasaan itu semakin kuat dengan setiap hari yang berlalu. Itu berasal dari begitu dalam di dalam dirinya sehingga dia tidak bisa mengidentifikasinya dengan jelas, tetapi sekarang dia memahami sumber ketidaknyamanan itu.
+Apakah itu sebabnya?
+Shinji dengan cepat menolak pemikiran itu. “Itu tidak benar!”
+Dia harus menolaknya—kepada Ayanami dan kepada dirinya sendiri. Pipinya memerah.
+
+<<Kamu hanya bisa melihatku sebagai seseorang yang berbeda dari ibumu sampai tiga tahun yang lalu, ketika tubuhku adalah tubuh seorang remaja berusia empat belas tahun.>>
+“Diam!”
+Dia bergetar saat kata-katanya mengungkapkan perasaannya.
+
+<<Jika aku menjadi persis seperti ibumu, apakah kamu akan bisa mengakuiku saat itu?>>
+
+“Diam!”
+Mengapa ini terjadi?
+Mengapa Eva Quatre jatuh? Mengapa Quatre mengatakan hal-hal ini?
+Shinji mengirimkan permohonan diam-diam agar semua ini berhenti.
+
+Field Eva-0.0 dan Eva-01 bertabrakan di udara. Keduanya tidak memberi jalan satu sama lain, dan di tempat mereka bertemu, ledakan dua dimensi membelah langit. Apa yang terjadi di momen berikutnya bukanlah rencana sadar Shinji tetapi manifestasi dari kehendaknya.
+Shinji menciptakan A.T. Field berbentuk bola yang berpusat pada dirinya sendiri. Dia memperluas field tersebut hingga beberapa puluh kali ukuran aslinya, menelan segala sesuatu di sekitarnya, termasuk Eva Ayanami Quatre. Udara di dalam field kehilangan tekanan, seperti piston yang ditarik dari silinder. Terjadi kilatan putih cerah saat field mengeluarkan ribuan meter kubik air danau dalam bentuk mangkuk setinggi 1.200 meter. Air itu dihilangkan panasnya dan membeku seketika.
+Menakjubkan, piring parabola es ini tidak hanya menangkap Eva-0.0 yang jatuh tetapi juga gelombang kejut berbentuk kerucut yang menyebar di sekitarnya. Saat Eva dan gelombang kejutnya menghantam es, awan tipis meledak ke langit dan memudar.
+Patung es yang besar dan menjulang itu sesaat membesar sebelum runtuh.
+Dari Tokyo-3, mangkuk es, jauh lebih tinggi daripada gunung-gunung di sekitarnya, tampak meledak—kecuali dalam gerakan lambat yang tidak wajar karena skala yang sangat besar. Es yang retak menyerap sisa energi gelombang kejut, yang sebaliknya akan menghantam kota. Setelah kehilangan ujung tombaknya, gelombang itu menghilang, menyebar ke luar dan mendorong semua awan di kaldera.
+Suhu turun tajam di area sekitar Danau Ashi, dan debu berlian yang berkilau tersebar di tanah.
+
+Ibuki Maya, kepala departemen sains dan teknik, berada di dalam lab Nerv HQ-nya bersama timnya, memantau data dari sensor di dek terapung, yang telah selamat dari kehancuran.
+“Kirim ini ke pusat komando,” perintah Maya.
+Para insinyur dan ilmuwan berbincang-bincang dengan semangat.
+“Suhu di tengah telah turun dari 1.000 derajat Celsius menjadi minus 200. Apakah kita melihat pendinginan adiabatik?”
+“Saya rasa ada lebih dari itu. Sampel ini menunjukkan tanda-tanda manipulasi pusat massa partikel.”
+“Apakah kamu berbicara tentang mengontrol gerakan atom, seperti dengan penjepit optik?”
+“Gangguan elektromagnetik sepenuhnya hilang, dan kebisingan latar belakang sangat tenang.”
+
+“Dia telah menghentikan semua gerakan,” kata Maya.
+Dengan kacamata bingkai tipis dan ekspresi yang tenang, Maya menunjukkan sedikit jejak wanita ceria tetapi teliti yang pernah dia. Dia sekarang lebih mirip Dr. Akagi Ritsuko, yang pernah mendapatkan kepercayaan dan penghinaan Maya.
+“Ikatan kimia molekul air dalam es ini tidak biasa,” kata Maya.
+“Dengan ikatan itu,” kata salah satu ilmuwan, “es ini akan jauh lebih kuat, dan dengan kepadatan ini… saya rasa tidak akan mudah meleleh.”
+Ketika datang ke Evangelion dan Angel, memecahkan satu misteri sering kali hanya menimbulkan yang baru. Seiring waktu, peran insinyur dan ilmuwan Nerv mulai tumpang tindih dengan cara yang tidak terduga, dan kedua tim sekarang secara teratur bekerja bersama.
+Sebagai petugas kepala mereka saat ini, Maya telah mewarisi pengelolaan teknologi terkait Eva Nerv Japan, yang terus dia kembangkan. Karena tekanan berat dari tugasnya, Maya jarang tersenyum lagi. Hari ini, ekspresi tegas mengerutkan dahinya.
+“Unit Satu adalah satu-satunya Eva yang telah menyerap S² Engine sendiri,” katanya. “Namun, tiga tahun terakhir memberi kita sedikit data tentangnya. Sudah ada begitu banyak yang tidak kita pahami tentang Eva itu, jadi kita tidak bisa mengatakan apakah ini adalah perkembangan baru atau sesuatu yang sudah ada sebelumnya.”

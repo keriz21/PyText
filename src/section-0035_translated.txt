@@ -1,0 +1,13 @@
+public/img/Evangelion-Volume1_CONCEPTGALLERY_.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_2.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_3.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_4.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_5.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_6.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_7.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_8.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_9.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_10.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_11.jpg
+public/img/Evangelion-Volume1_UNDERCOVER.jpg
+public/img/Evangelion-Volume1_CONCEPTGALLERY_12.jpg

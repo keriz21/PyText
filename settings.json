@@ -1,0 +1,19 @@
+{
+	"document_settings": {
+		"page_size": "A4",
+		"orientation": "P",
+		"font_family": "Times",
+		"font_size": 12,
+		"margin": 20
+	},
+	"folder_settings": {
+		"source_folder": "src",
+		"image_folder": "public/images",
+		"output_folder": "output"
+	},
+	"caption_settings": {
+		"font_style": "I",
+		"font_size_offset": -2,
+		"align": "C"
+	}
+}
