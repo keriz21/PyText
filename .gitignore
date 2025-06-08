@@ -1,0 +1,7 @@
+# Abaikan semua isi folder src
+src/*
+!src/.gitkeep
+
+# Abaikan semua isi folder public
+public/*
+!public/.gitkeep
